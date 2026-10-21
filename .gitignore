@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+.venv-backup/
+.venv-backup-*/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+*.env
+
+# Raw data snapshot (re-fetched via scripts/download_data.py; only provenance is tracked)
+data/raw/telco.csv
+
+# Generated outputs (recreated by scripts, not source inputs)
+data/processed/
+artifacts/
+reports/

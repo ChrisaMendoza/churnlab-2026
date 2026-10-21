@@ -1,0 +1,11 @@
+{
+  "python": "3.12.0 (v3.12.0:0fb18b02c8, Oct  2 2023, 09:45:56) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-26.6.2-x86_64-i386-64bit",
+  "uv": "uv 0.12.23 (46b84fd0b 2026-10-03 aarch64-apple-darwin)",
+  "packages": {
+    "churnlab": "0.1.0",
+    "pandas": "3.0.6",
+    "numpy": "1.26.4",
+    "scikit-learn": "1.9.1"
+  }
+}
